@@ -12,6 +12,7 @@
  https://github.com/fascalsj/golang-rest-starter.git 
 
 **Start Application**
+
 To run the application you must provide postgres and adjust the database settings, then run the command:
 
     go run main.go
